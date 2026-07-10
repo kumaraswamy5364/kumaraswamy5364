@@ -11,7 +11,7 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  Kondala Kumaraswamy
+   Kondala Kumaraswamy
 </h1>
 
 <h3>🚀 Full Stack Developer | Data Scientist</h3>
