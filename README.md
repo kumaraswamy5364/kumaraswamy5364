@@ -15,11 +15,11 @@
 
 <!-- Your Name -->
 
-<!-- Animated Skills -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Data+Science+Enthusiast;AI+%26+Machine+Learning+Explorer;Java+Full+Stack+Developer;MERN+Stack+Developer;Always+Learning+Something+New!" alt="Typing SVG"/>
+
 
 <br><br>
-
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=kumaraswamy5364&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 
 </div>
