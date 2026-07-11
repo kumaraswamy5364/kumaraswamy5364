@@ -14,13 +14,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Kondala+Kumaraswamy;Full+Stack+Developer;Data+Scientist;AI+%26+Machine+Learning+Enthusiast" />
 
 <!-- Your Name -->
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-  <b>✨ Kondala Kumaraswamy ✨</b>
-</h1>
-
-<!-- Professional Title -->
-<h3>🚀 Full Stack Developer | Data Scientist</h3>
 
 <!-- Animated Skills -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Data+Science+Enthusiast;AI+%26+Machine+Learning+Explorer;Java+Full+Stack+Developer;MERN+Stack+Developer;Always+Learning+Something+New!" alt="Typing SVG"/>
