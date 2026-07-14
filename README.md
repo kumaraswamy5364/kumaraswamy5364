@@ -333,9 +333,9 @@ An AI-powered web application that detects livestock diseases from uploaded anim
 
 ### 🔗 Project Status
 
-🚧 **GitHub Repository:** Coming Soon
+🚧 **GitHub Repository:** 
 
----
+https://github.com/kumaraswamy5364/Livestock-Disease-Detection-System
 
 # 🎯 Areas of Expertise
 
