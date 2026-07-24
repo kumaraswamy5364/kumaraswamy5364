@@ -36,15 +36,15 @@
 
 🌐 **Portfolio:** https://futuristic-developer-22rf.bolt.host
 
-💼 **Open to Work**
-
-💡 I'm a passionate Software Engineer with expertise in **Java FullStack Development**, **MERN Stack**, **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I enjoy building scalable applications,
- solving real-world problems, and continuously exploring modern technologies.
-
 🚀 **Explore My Portfolio**
 Showcasing my projects, technical skills, certifications, and professional journey:
 
-🔗 **https://futuristic-developer-22rf.bolt.host**
+🔗 https://futuristic-developer-22rf.bolt.host
+
+💼 **Open to Work**
+
+💡 I'm a passionate Software Engineer with expertise in **Java FullStack Development**, **MERN Stack**, **Data Science**, **Machine Learning**, and **Artificial Intelligence**.I enjoy building scalable applications,solving real-world problems, and continuously exploring modern technologies.
+
 
 ---
 
