@@ -30,18 +30,30 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-🎓 **B.Tech in Computer Science and Engineering**  
+🎓 **B.Tech in Computer Science and Engineering**
+
 📍 Hyderabad, Telangana, India
+
+🌐 **Portfolio:** https://futuristic-developer-22rf.bolt.host
 
 💼 **Open to Work**
 
-💡 I'm a passionate Software Engineer with expertise in **Java Full Stack Development**, **MERN Stack**, **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I enjoy building scalable applications, solving real-world problems, and continuously exploring modern technologies.
+💡 I'm a passionate Software Engineer with expertise in **Java FullStack Development**, **MERN Stack**, **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I enjoy building scalable applications,
+ solving real-world problems, and continuously exploring modern technologies.
 
-🎯 **Career Goals**
+🚀 **Explore My Portfolio**
+Showcasing my projects, technical skills, certifications, and professional journey:
+
+🔗 **https://futuristic-developer-22rf.bolt.host**
+
+---
+
+## 🎯 Career Goals
 
 - 🤖 Data Scientist
 - 🧠 AI Engineer
 - 💻 Full Stack Developer
+
 
 ---
 
@@ -69,7 +81,7 @@
 
 ## ⚡ Fun Fact
 
-🇯🇵 I enjoy learning Japanese in my free time.
+ I enjoy learning Japanese in my free time.
 
 🏏 I love playing Cricket.
 
