@@ -34,12 +34,14 @@
 
 📍 Hyderabad, Telangana, India
 
-🌐 **Portfolio:** https://futuristic-developer-22rf.bolt.host
 
-🚀 **Explore My Portfolio**
-Showcasing my projects, technical skills, certifications, and professional journey:
+🚀 **Explore My Portfolio:**
 
-🔗 https://futuristic-developer-22rf.bolt.host
+Showcasing my projects, technical skills, certifications, and professional journey.
+
+🌐 **Portfolio:** **https://futuristic-developer-22rf.bolt.host**
+
+📄 **Resume :** https://drive.google.com/file/d/1N2uTL7U_IR5F69EqpWNZv2Vylz126f7i/view?usp=drivesdk
 
 💼 **Open to Work**
 
